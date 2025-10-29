@@ -18,8 +18,13 @@ This repository contains a detailed research report conducted in October 2024 on
 - **Survey Design:** Structured questionnaire with open and closed questions
 - **Sample Size:** 20 residents across diverse demographics
 - **Data Collection:** Online survey
-- **Analysis Tools:** SPSS, thematic analysis
 - **Visualization:** Bar charts, pie charts, and cross-tabulations
+
+## Tools Used
+
+- **SPSS**: For statistical analysis, cross-tabulations and visualization
+- **Microsoft Excel**: For data collection and cleaning
+- **PDF Report**: Final documentation compiled from analysis
 
 ## Key Findings
 - 45% rated waste management as **poor**
