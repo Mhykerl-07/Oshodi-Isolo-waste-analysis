@@ -5,7 +5,7 @@ A data-driven analysis of waste management challenges in Oshodi/Isolo Local Gove
 # Effects of Bad Waste Management in Oshodi/Isolo LGA
 
 ## Overview
-This repository contains a detailed research report conducted in October 2024 on the impact of poor waste management in Oshodi/Isolo Local Government Area, Lagos, Nigeria. The study highlights environmental, health, and social consequences and offers actionable recommendations for improvement.
+This contains a detailed research report conducted in October 2024 on the impact of poor waste management in Oshodi/Isolo Local Government Area, Lagos, Nigeria. The study highlights environmental, health, and social consequences and offers actionable recommendations for improvement.
 
 ## Objectives
 - Assess the current state of waste management
